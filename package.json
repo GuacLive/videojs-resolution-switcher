@@ -1,5 +1,5 @@
 {
-  "name": " @guaclive/videojs-resolution-switcher",
+  "name": "@guaclive/videojs-resolution-switcher",
   "version": "0.6.0",
   "main": "./lib/videojs-resolution-switcher.js",
   "author": {
