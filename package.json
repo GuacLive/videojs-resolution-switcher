@@ -35,18 +35,18 @@
     "test": "grunt test"
   },
   "devDependencies": {
-    "grunt": "^0.4.5",
+    "grunt": "^1.0.4",
     "grunt-contrib-clean": "^1.0",
     "grunt-contrib-concat": "^1.0",
     "grunt-contrib-jshint": "^1.0",
     "grunt-contrib-qunit": "^1.1",
     "grunt-contrib-uglify": "^1.0",
     "grunt-contrib-watch": "^1.0",
-    "video.js": "^5.8",
     "qunitjs": "^1.22",
-    "videojs-youtube": "^2.0.8"
+    "video.js": "^7.0",
+    "videojs-youtube": "^2.6.0"
   },
   "peerDependencies": {
-    "video.js": "^6.0"
+    "video.js": "^7.0"
   }
 }
