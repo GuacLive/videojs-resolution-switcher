@@ -1,5 +1,5 @@
 {
-  "name": " @dlive/videojs-resolution-switcher",
+  "name": " @guaclive/videojs-resolution-switcher",
   "version": "0.6.0",
   "main": "./lib/videojs-resolution-switcher.js",
   "author": {
@@ -15,10 +15,10 @@
   "description": "Resolution switcher for video.js 6",
   "repository": {
     "type": "git",
-    "url": "git@github.com:dlive-io/videojs-resolution-switcher.git"
+    "url": "git@github.com:guaclive/videojs-resolution-switcher.git"
   },
   "bugs": {
-    "url": "https://github.com/dlive-io/videojs-resolution-switcher/issues"
+    "url": "https://github.com/guaclive/videojs-resolution-switcher/issues"
   },
   "license": "Apache-2.0",
   "keywords": [
